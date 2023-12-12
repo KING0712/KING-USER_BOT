@@ -1,6 +1,6 @@
 <img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg">
 
-<p align="center">™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">𝐊𝐈𝐍𝐆 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
