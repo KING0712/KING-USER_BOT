@@ -18,7 +18,7 @@
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ 
 
-[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg)
+[𝐎𝐏 𝐁𝐎𝐋𝐀𝐓𝐈 𝐏𝐔𝐁𝐋𝐈𝐂](https://telegra.ph/file/89e3cf2779b92bbc964eb.jpg)
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/KING0712/KING-USER_BOT/tree/master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
