@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg">
+<img src="https://telegra.ph/file/64e4440d641998b4d9749.jpg">
 
 <p align="center">𝐊𝐈𝐍𝐆 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 🔥 </p>
 
@@ -10,7 +10,7 @@
 - PyroGram Session
 - Dummy account
 - Python 3.8+ or 3.7
-- [Mongo Db](https://youtu.be/mnvjt_a5JYA)
+- Mongo Db
 
 ## String Session
 
@@ -23,7 +23,7 @@
 
 [ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/OXY-USERBOT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/KING0712/KING-USER_BOT/tree/master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
