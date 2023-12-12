@@ -11,20 +11,20 @@ from Zaid.helper.PyroHelpers import ReplyCheck
 from Zaid.modules.help import add_command_help
 from Zaid.modules.bot.inline import get_readable_time
 
-alive_logo = ALIVE_PIC or "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg"
+alive_logo = ALIVE_PIC or "https://telegra.ph/file/64e4440d641998b4d9749.jpg"
 
 if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍**\n\n"
+        f"** ཽ͡ ⃝𝆺𝅥𝐌ꝛ፝֟ [🃜]❛𝐊ɩŋʛ𝅃꯭᳚𝅃꯭᳚𓄂️𓆪ꪾ**\n\n"
         f"❏ **νєяѕισи**: `2.1`\n"
         f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **ρутнσи**: `{python_version()}`\n"
         f"├• **ρуяσgяαм**: `{__version__}`\n"
-        f"├• **ѕυρρσят**: [Click](t.me/BWANDARLOK)\n"
-        f"├• **¢нαииєℓ**: [Click](t.me/PRADHAN474)\n"
-        f"└• **яєρσ**: [Click](https://GitHub.com/PRADHAN474/OXY-USERBOT2.0)"        
+        f"├• **ѕυρρσят**: [Click](t.me/l_MR_ll_KING_l)\n"
+        f"├• **¢нαииєℓ**: [Click](t.me/l_MR_ll_KING_l)\n"
+        f"└• **яєρσ**: [Click](https://github.com/KING0712/KING-USER_BOT/tree/master)"        
     )
 
 @Client.on_message(
@@ -57,12 +57,12 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/PRADHAN474/OXY-USERBOT2.0 Fork & Give an ⭐")
+    await message.edit("Here is repo: \n\n\nhttps://github.com/KING0712/KING-USER_BOT/tree/master Fork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://t.me/PRADHAN474")
+    await message.edit("https://t.me/l_MR_ll_KING_l")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
