@@ -1,9 +1,9 @@
 {
-    "name": "™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 Userbot",
-    "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+    "name": "KING USER BOT",
+    "logo": "https://telegra.ph/file/64e4440d641998b4d9749.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/PRADHAN474/OXY-Userbot2.0",
+    "repository": "https://github.com/KING0712/KING-USER_BOT/tree/master",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -18,7 +18,7 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "5059737154 123456"
+            "value": "6924946313 123456"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
