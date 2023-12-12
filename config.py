@@ -13,12 +13,12 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 OWNER_ID = int(getenv("OWNER_ID"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-ALIVE_PIC = getenv("ALIVE_PIC", 'https://graph.org/file/b0825ba6490d2aa6a6afd.jpg')
+ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/64e4440d641998b4d9749.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/PRADHAN474/OXY-USERBOT2.0")
+REPO_URL = getenv("REPO_URL", "https://github.com/KING0712/KING-USER_BOT/tree/master")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
